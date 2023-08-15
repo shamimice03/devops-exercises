@@ -1112,12 +1112,13 @@ Use Elastic IP which provides you a fixed IP address.
 
 <details>
 <summary>When creating a new VPC, there is an option called "Tenancy". What is it used for?</summary><br><b>
-</b></details>
 
+[docs.aws](https://docs.aws.amazon.com/vpc/latest/userguide/create-vpc.html):  `Tenancy`: This option defines if EC2 instances that you launch into the VPC will run on hardware that's shared with other AWS accounts or on hardware that's dedicated for your use only.
+</b></details>
 <details>
 <summary>What is an Elastic IP address?</summary><br><b>
 
-[AWS Docs](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/elastic-ip-addresses-eip.html): "An Elastic IP address is a static IPv4 address designed for dynamic cloud computing. An Elastic IP address is allocated to your AWS account, and is yours until you release it. By using an Elastic IP address, you can mask the failure of an instance or software by rapidly remapping the address to another instance in your account."
+[docs.aws](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/elastic-ip-addresses-eip.html): "An Elastic IP address is a static IPv4 address designed for dynamic cloud computing. An Elastic IP address is allocated to your AWS account, and is yours until you release it. By using an Elastic IP address, you can mask the failure of an instance or software by rapidly remapping the address to another instance in your account."
 </b></details>
 
 <details>
